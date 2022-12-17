@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AliSherifBoudy
+- 👀 I’m interested in game dev and programming
+- 🌱 I’m currently learning unity
+- 💻 I know 7 programming languages: C, C++, C#, Javascript, Python, HLSL, and CG
+- 🏢 I worked on stuff like a lorenz system simulation, fourier transform program, proceedural terrain, and much more :D
+- 📫 You can reach me through my discord acc: Ali Sherif#4150
